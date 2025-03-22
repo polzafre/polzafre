@@ -31,37 +31,33 @@ https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000
 https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 #EXTINF:-1,МужскоеКино
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9138/index.m3u8
-#EXTINF:-1,BCU Kinozakaz Premiere 4K
-http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/31547/index.m3u8
-#EXTINF:-1,BCU Kids 4K
+#EXTINF:-1 group-title="Нестабильные", BCU Kids 4K
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/17023/index.m3u8
-#EXTINF:-1,BCU VHS HD
+#EXTINF:-1 group-title="Нестабильные", BCU VHS HD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/11042/index.m3u8
-#EXTINF:-1,BCU Marvel HD
+#EXTINF:-1 group-title="Нестабильные", BCU Marvel HD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/11038/index.m3u8
-#EXTINF:-1,Magic VHS HD
+#EXTINF:-1 group-title="Нестабильные", Magic VHS HD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/18062/index.m3u8
-#EXTINF:-1,Liberty Мульт 4K
+#EXTINF:-1 group-title="Нестабильные", Liberty Мульт 4K
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/18051/index.m3u8
-#EXTINF:-1,Fresh Romantic
+#EXTINF:-1 group-title="Нестабильные", Fresh Romantic
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/19298/index.m3u8
-#EXTINF:-1,Yosso TV Best 60fps
+#EXTINF:-1 group-title="Нестабильные", Yosso TV Best 60fps
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/20165/index.m3u8
-#EXTINF:-1,Yosso TV Союзмульт
+#EXTINF:-1 group-title="Нестабильные", Yosso TV Союзмульт
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/14178/index.m3u8
-#EXTINF:-1,TOP Cinema HD
+#EXTINF:-1 group-title="Нестабильные", TOP Cinema HD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/13004/index.m3u8
-#EXTINF:-1,VF Мультфильмы СССР
+#EXTINF:-1 group-title="Нестабильные", VF Мультфильмы СССР
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/10086/index.m3u8
-#EXTINF:-1,VF Фильмы СССР
+#EXTINF:-1 group-title="Нестабильные", VF Фильмы СССР
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/10085/index.m3u8
-#EXTINF:-1,MM Боевик Classic HD
+#EXTINF:-1 group-title="Нестабильные", MM Боевик Classic HD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/13027/index.m3u8
-#EXTINF:-1,MM История HD
+#EXTINF:-1 group-title="Нестабильные", MM История HD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/13033/index.m3u8
-#EXTINF:-1,MM История HD
-http://cdn.admuspeh.my/8933/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1,MM Фантастика HD
+#EXTINF:-1 group-title="Нестабильные", MM Фантастика HD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/13062/index.m3u8
 
 
