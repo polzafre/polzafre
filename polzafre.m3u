@@ -35,6 +35,35 @@ http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9138/index.m3u8
 
 ---------------------------------------------------
 
+#EXTINF:-1 group-title="НОВЫЕ", viju+ Premiere
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159839
+#EXTINF:-1 group-title="НОВЫЕ", viju+ Serial
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/782152
+#EXTINF:-1 group-title="НОВЫЕ", viju+ Comedy
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159838
+#EXTINF:-1 group-title="НОВЫЕ", EUROSPORT 1 FHD
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17252
+#EXTINF:-1 group-title="НОВЫЕ", EUROSPORT 2 FHD
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17250
+#EXTINF:-1 group-title="НОВЫЕ", THT MUSIC HD
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/360649
+#EXTINF:-1 group-title="НОВЫЕ", Русский Экстрим UHD 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5003/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Глазами Туриста 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/15191/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", YOSSO-4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/16153/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", MyZen TV 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5002/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Наша Сибирь 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4003/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Ultra HD Cinema 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", VF Сериал 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
+
+---------------------------------------------------
+
 #EXTINF:-1 group-title="1 ПОТОК", BCU Kids 4K
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/17023/index.m3u8
 #EXTINF:-1 group-title="1 ПОТОК", BCU VHS HD
@@ -99,29 +128,60 @@ http://langamepp.com/chtst/AE6DBB4819887EF501E1E9162AF0EC3D9C5F897F28BF02986C306
 
 ---------------------------------------------------
 
-#EXTINF:-1 group-title="НОВЫЕ", viju+ Premiere
-http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159839
-#EXTINF:-1 group-title="НОВЫЕ", viju+ Serial
-http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/782152
-#EXTINF:-1 group-title="НОВЫЕ", viju+ Comedy
-http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159838
-#EXTINF:-1 group-title="НОВЫЕ", EUROSPORT 1 FHD
-http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17252
-#EXTINF:-1 group-title="НОВЫЕ", EUROSPORT 2 FHD
-http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17250
-#EXTINF:-1 group-title="НОВЫЕ", THT MUSIC HD
-http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/360649
-#EXTINF:-1 group-title="НОВЫЕ", Русский Экстрим UHD 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5003/index.m3u8
-#EXTINF:-1 group-title="НОВЫЕ", Глазами Туриста 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/15191/index.m3u8
-#EXTINF:-1 group-title="НОВЫЕ", YOSSO-4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/16153/index.m3u8
-#EXTINF:-1 group-title="НОВЫЕ", MyZen TV 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5002/index.m3u8
-#EXTINF:-1 group-title="НОВЫЕ", Наша Сибирь 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4003/index.m3u8
-#EXTINF:-1 group-title="НОВЫЕ", Ultra HD Cinema 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
-#EXTINF:-1 group-title="НОВЫЕ", VF Сериал 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", BCU Kids 4K
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/17023/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", BCU VHS HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/11042/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", BCU Marvel HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", Magic VHS HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18062/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", Liberty Мульт 4K
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18051/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", Fresh Romantic
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/19298/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", Yosso TV Best 60fps
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/20165/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", Yosso TV Союзмульт
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/14178/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", TOP Cinema HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13004/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", VF Мультфильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10086/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", VF Фильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10085/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", MM Боевик Classic HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", MM История HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", MM Фантастика HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
+
+---------------------------------------------------
+
+#EXTINF:-1 group-title="4 ПОТОК", Fresh Kids HD
+http://ott.watch/stream/UCFJ8XKS6K/425.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Fresh VHS HD
+http://ott.watch/stream/UCFJ8XKS6K/428.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", CineMan Marvel HD
+http://ott.watch/stream/UCFJ8XKS6K/354.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Fresh VHS HD
+http://ott.watch/stream/UCFJ8XKS6K/428.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Мульт HD
+http://ott.watch/stream/UCFJ8XKS6K/232.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Fresh Romantic HD
+http://ott.watch/stream/UCFJ8XKS6K/433.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Мосфильм. Золотая коллекция HD
+http://ott.watch/stream/UCFJ8XKS6K/369.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", TOP Cinema HD
+http://ott.watch/stream/UCFJ8XKS6K/350.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Cartoons Short HD
+http://ott.watch/stream/UCFJ8XKS6K/347.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Fresh Family HD
+http://ott.watch/stream/UCFJ8XKS6K/427.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Viju TV 1000 Action HD
+http://ott.watch/stream/UCFJ8XKS6K/100.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Viju History HD
+http://ott.watch/stream/UCFJ8XKS6K/101.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Fresh Fantastic HD
+http://ott.watch/stream/UCFJ8XKS6K/429.m3u8
