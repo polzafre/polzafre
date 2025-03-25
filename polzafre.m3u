@@ -2,12 +2,12 @@
 #EXTINF:-1, PolzaFre IPTV
 https://www.dropbox.com/scl/fi/3ugd9h98zdb7tvae80kx1/.mp4?rlkey=1ehb7f277z9xs76ss69kk9f6n&st=h8d0v7rp&dl=1
 
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Первый канал HD
-https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Россия 1 HD
-https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", НТВ HD
-https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Первый канал
+https://salam-ufa-13.rutube.ru/dive/river-5-552.rutube.ru/SQQXyDkzAk0zgDhhrrQKNw/stream/genetta-516.ost.rutube.ru/vGUSgidNg81Ql_DZH6Ifwg/1743493344/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Россия 1 
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/1399200_576p.m3u8
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", НТВ
+https://cdn.ntv.ru/ntv2_sd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", ТНТ HD
 https://salam-ufa-13.rutube.ru/dive/river-3-301.rutube.ru/lXG3M2SEFmxMOtFW_bIh1A/stream/genetta-312.m9.rutube.ru/FNAAUmgOR5BJjbU0rGEKDw/1742905761/73968c8e1530993c8601b9d4127aeda9/1080p_stream.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Пятница! HD
@@ -24,14 +24,14 @@ http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/2414/index.m3u8
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9009/index.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", MTV Classic
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Ужасы HD
-https://stream-msk-19.ott.tricolor.tv/dtv/id997_MSKSG-PVR-1--Kinopokaz_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Ужас TV 
+https://salam-mskm9-1.rutube.ru/dive/river-5-512.rutube.ru/ttSQc1KEx8V1orjsGk0W2A/stream/genetta-313.m9.rutube.ru/cGT4CW4kPssKqzSBE6hi-w/1743494949/696bffe7b7be44aa1c64fda33c2cff5c/1080p_stream.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", КиноКульт
-https://stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1--Kinokult_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
+https://stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1--Kinokult_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Cinema
-http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
+http://5.101.0.202:8080/4/index.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", МужскоеКино
-http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9138/index.m3u8
+http://178.212.71.253:8000/play/126/index.m3u8
 
 ---------------------------------------------------
 
@@ -61,6 +61,21 @@ http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4003/index.m3u8
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", VF Сериал 4K
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
+
+#EXTINF:-1 group-title="НОВЫЕ", СТС
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/506/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Рен ТВ
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2024/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Пятый канал
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/112/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Звезда Плюс HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/19230/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Дикая рыбалка HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2005/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Диалоги о рыбалке HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2394/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", В мире животных HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2089/index.m3u8
 
 ---------------------------------------------------
 
@@ -96,35 +111,33 @@ http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
 ---------------------------------------------------
 
 #EXTINF:-1 group-title="2 ПОТОК", BCU Kids 4K
-http://langamepp.com/chtst/21315F137E383C7C776125233A782C1613036D244F0F401E14144E4A5E0B44727A59336023
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11035/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", BCU VHS HD
-http://langamepp.com/chtst/1520DDA53222D9C6B6F269AB4445A1332712EF920315A5A4D5871FC3372DC5687D4CAEF8
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11042/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", BCU Marvel HD
-http://langamepp.com/chtst/DBA369E55E8F6732852D0DC2F7FCC0C1E9915BD26FB81B50E65860A3858AA5ADB3C7328D32FC3A
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11038/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", Magic VHS HD
-http://langamepp.com/chtst/55FBBB125E1A327A9011216A2ECCB79167C989256F2D4E17F176480958A4C4F931A0D37E2D47
-#EXTINF:-1 group-title="2 ПОТОК", Liberty Disney FHD
-http://langamepp.com/chtst/223F03FE8C4EABBE0CDC89471815A56D100D31C9BD79D7D265BEEC356C6CC10451516687EA26CFE564B0FA1A
-#EXTINF:-1 group-title="2 ПОТОК", Liberty Симпсоны FHD
-http://langamepp.com/chtst/EC97AE71DE2D4B5C03C2525748C55E8DDEA59C46EF1A37306AA037253CBC8F0C3C2F7ECD0E929ADDD37C82EA994E38E588CCC61DAD70
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18062/index.m3u8
+#EXTINF:-1 group-title="2 ПОТОК", Liberty Мульт 4K
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18051/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", Fresh Romantic
-http://langamepp.com/chtst/EE11B8CFBFA0F0257A60041C8F748E10DC238AF88E978C4308057774FD1BE3718065D1ACE4C89C5627
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/19298/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", Yosso TV Best 60fps
-http://langamepp.com/chtst/173EC77C23737CDDD4577A5BBD42F9F9250CF54B124400A4BB240934C9349B9C644AF14C45030F86BC3B0906
-#EXTINF:-1 group-title="2 ПОТОК", Yosso TV Наше Детское
-http://langamepp.com/chtst/1F75DD9991F94F3195AB00232835EDC02D47EFAEA0CE3348FAD8734C5C433D7DCFC50C11414C9F85451ED1A1F9B43D7ACFCB0D2CCA912342C8
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/14236/index.m3u8
+#EXTINF:-1 group-title="2 ПОТОК", Yosso TV Союзмульт
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/14178/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", TOP Cinema HD
-http://langamepp.com/chtst/A5F146CD4DA1150D5978ABDC2F1E92E797C374FA7C9669793608C8B5417BFF86CD951DA521D248
-#EXTINF:-1 group-title="2 ПОТОК", VF Anime
-http://langamepp.com/chtst/B9E96E6F8A02798964D9AC92102AA1BE8BDB5C58BB3505FF02B8C2FB7D4FFAD6D59A33
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13004/index.m3u8
+#EXTINF:-1 group-title="2 ПОТОК", VF Мультфильмы СССР
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10086/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", VF Фильмы СССР
-http://langamepp.com/chtst/15B7BFEA777E8160CB0CCCE4725610D327858DDD4649FD16ADDD4834CA86AB029967033BFCAF00B14ADD4D35F20D78BF66EA
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10085/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", MM Боевик Classic HD
-http://langamepp.com/chtst/6FF782F8A0E0C9121D888A1D8F9658195DC5B0CF91D7B57F70583BCD3146EDC9DD273A281A83A5736EFBE37EE7F203710384DF
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13027/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", MM История HD
-http://langamepp.com/chtst/C5B21416C610ECDF54E9D043544CDBEDF7802621F72790B239396892D59D593D7B6394C67EC163B730B2B82F2711
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", MM Фантастика HD
-http://langamepp.com/chtst/AE6DBB4819887EF501E1E9162AF0EC3D9C5F897F28BF02986C306DC69A2051EC2CBD0B999859FC25B93153C69A988866C601C815
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
 
 ---------------------------------------------------
 
