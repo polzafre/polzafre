@@ -76,6 +76,9 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2005/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2394/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", В мире животных HD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2089/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Кинопремьера HD
+http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/9020/index.m3u8
+
 
 ---------------------------------------------------
 
@@ -107,6 +110,8 @@ http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13033/index.m3u8
 #EXTINF:-1 group-title="1 ПОТОК", MM Фантастика HD
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
+#EXTINF:-1 group-title="1 ПОТОК", Viju History HD
+http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/9060/index.m3u8
 
 ---------------------------------------------------
 
@@ -138,6 +143,8 @@ http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13027/index.m3u8
 http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", MM Фантастика HD
 http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
+#EXTINF:-1 group-title="2 ПОТОК", Viju History 
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/9060/index.m3u8
 
 ---------------------------------------------------
 
@@ -169,6 +176,8 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
 #EXTINF:-1 group-title="3 ПОТОК", MM Фантастика HD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
+#EXTINF:-1 group-title="3 ПОТОК", viju History HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9060/index.m3u8
 
 ---------------------------------------------------
 
@@ -194,7 +203,7 @@ http://ott.watch/stream/UCFJ8XKS6K/347.m3u8
 http://ott.watch/stream/UCFJ8XKS6K/427.m3u8
 #EXTINF:-1 group-title="4 ПОТОК", Viju TV 1000 Action HD
 http://ott.watch/stream/UCFJ8XKS6K/100.m3u8
-#EXTINF:-1 group-title="4 ПОТОК", Viju History HD
-http://ott.watch/stream/UCFJ8XKS6K/101.m3u8
 #EXTINF:-1 group-title="4 ПОТОК", Fresh Fantastic HD
 http://ott.watch/stream/UCFJ8XKS6K/429.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Viju History HD
+http://ott.watch/stream/UCFJ8XKS6K/101.m3u8
