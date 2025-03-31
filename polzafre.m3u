@@ -2,22 +2,22 @@
 #EXTINF:-1, PolzaFre IPTV
 https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
 
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Первый канал
-https://salam-ufa-13.rutube.ru/dive/river-5-552.rutube.ru/SQQXyDkzAk0zgDhhrrQKNw/stream/genetta-516.ost.rutube.ru/vGUSgidNg81Ql_DZH6Ifwg/1743493344/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Россия 1 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/1399200_576p.m3u8
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Первый Канал HD (+4)
+http://212.20.41.116:4022/udp/225.54.225.161:5000
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Россия 1 (+4) HD
+http://212.20.41.116:4022/udp/225.54.225.152:5000
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", НТВ
 https://cdn.ntv.ru/ntv2_sd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", ТНТ HD
-https://salam-ufa-13.rutube.ru/dive/river-3-301.rutube.ru/lXG3M2SEFmxMOtFW_bIh1A/stream/genetta-312.m9.rutube.ru/FNAAUmgOR5BJjbU0rGEKDw/1742905761/73968c8e1530993c8601b9d4127aeda9/1080p_stream.m3u8
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Пятница! HD
-https://salam-mskth-30.rutube.ru/dive/river-5-512.rutube.ru/Y_eLuPT4Z8IsqH3QJtw2UQ/stream/genetta-326.m9.rutube.ru/ADnNYFvzT4-tESphvv-7qA/1742905433/d90aa86cc5b1d4a7b310c85debcee474/1080p_stream.m3u8
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", ТНТ
+http://212.20.41.116:4022/udp/225.54.205.167:5000
+#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Пятница +4
+http://212.20.41.116:4022/udp/225.54.203.16:5000
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Пятница! УФА
 http://topc.ottc.pro:80/NOOKROYGJC/H9E8GZBCN7/1130829
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Че (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", 2х2 HD
-https://river-3-318.rutube.ru/stream/genetta-323.m9.rutube.ru/MXr_bNOpmKY_oFZFsX5QuA/1743190596/3d049e88a9b8dc64f4654d712e252d2c/1080p_stream.m3u8
+https://river-5-547.rutube.ru/stream/genetta-323.m9.rutube.ru/CbwPLDTdbctIcX5oyDbVWA/1744050685/e2316b43b1803d6c29a542345bbd714e/1080p_stream.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Матч! Премьер FHD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/2414/index.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", MTV Live HD
@@ -25,14 +25,13 @@ http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9009/index.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", MTV Classic
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Ужас TV 
-https://salam-mskm9-1.rutube.ru/dive/river-5-512.rutube.ru/ttSQc1KEx8V1orjsGk0W2A/stream/genetta-313.m9.rutube.ru/cGT4CW4kPssKqzSBE6hi-w/1743494949/696bffe7b7be44aa1c64fda33c2cff5c/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=u4ncdb1exIVK1Jv6O4pNOQ&e=1743455024&scheme=https
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", КиноКульт
-https://stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1--Kinokult_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
+https://stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1--Kinokult_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Cinema
-http://5.101.0.202:8080/4/index.m3u8
+http://212.20.41.116:4022/udp/225.54.225.10:5000
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", МужскоеКино
-http://178.212.71.253:8000/play/126/index.m3u8
-
+http://212.20.41.116:4022/udp/225.54.225.176:5000
 ---------------------------------------------------
 
 #EXTINF:-1 group-title="НОВЫЕ", viju+ Premiere
@@ -61,7 +60,6 @@ http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4003/index.m3u8
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", VF Сериал 4K
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
-
 #EXTINF:-1 group-title="НОВЫЕ", СТС
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/506/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", Рен ТВ
@@ -77,7 +75,34 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2394/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", В мире животных HD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2089/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", Кинопремьера HD
-http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/9020/index.m3u8
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9020/index.m3u8
+
+#EXTINF:-1 group-title="НОВЫЕ", Viasat History
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/12019/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Дикая охота HD 
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9081/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Киноужас HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9033/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", 12 канал ОМСК HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16033/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", KHL Prime HD 
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9003/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", BOX Be On Edge HD
+http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/19424/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Viju TV1000 Action HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9057/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Кинокомедия HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7248/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Кинохит HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7250/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Киносемья HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7244/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", VHS-ка HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/5006/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", CineMan Ментовские войны
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16063/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", Liberty Боевики FHD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15096/index.m3u8
 
 
 ---------------------------------------------------
@@ -111,7 +136,7 @@ http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13033/index.m3u8
 #EXTINF:-1 group-title="1 ПОТОК", MM Фантастика HD
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
 #EXTINF:-1 group-title="1 ПОТОК", Viju History HD
-http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/9060/index.m3u8
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9060/index.m3u8
 
 ---------------------------------------------------
 
@@ -144,7 +169,7 @@ http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", MM Фантастика HD
 http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
 #EXTINF:-1 group-title="2 ПОТОК", Viju History 
-http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/9060/index.m3u8
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/9060/index.m3u8
 
 ---------------------------------------------------
 
@@ -203,13 +228,12 @@ http://ott.watch/stream/UCFJ8XKS6K/347.m3u8
 http://ott.watch/stream/UCFJ8XKS6K/427.m3u8
 #EXTINF:-1 group-title="4 ПОТОК", Viju TV 1000 Action HD
 http://ott.watch/stream/UCFJ8XKS6K/100.m3u8
-#EXTINF:-1 group-title="4 ПОТОК", Fresh Fantastic HD
-http://ott.watch/stream/UCFJ8XKS6K/429.m3u8
 #EXTINF:-1 group-title="4 ПОТОК", Viju History HD
 http://ott.watch/stream/UCFJ8XKS6K/101.m3u8
+#EXTINF:-1 group-title="4 ПОТОК", Fresh Fantastic HD
+http://ott.watch/stream/UCFJ8XKS6K/429.m3u8
 
-
-------------------------------------------
+---------------------------------------------------
 
 #EXTINF:-1 group-title="MAGIC", MAGIC Action
 http://e5f741d0.amazzin.pw/iptv/377L9HYGGAN7KPH8N7RMHZ2F/18066/index.m3u8
