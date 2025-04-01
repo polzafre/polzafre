@@ -257,3 +257,22 @@ http://e5f741d0.amazzin.pw/iptv/377L9HYGGAN7KPH8N7RMHZ2F/31630/index.m3u8
 http://e5f741d0.amazzin.pw/iptv/377L9HYGGAN7KPH8N7RMHZ2F/18065/index.m3u8
 #EXTINF:-1 group-title="MAGIC", MAGIC VHS
 http://e5f741d0.amazzin.pw/iptv/377L9HYGGAN7KPH8N7RMHZ2F/18062/index.m3u8
+
+---------------------------------------------------
+
+#EXTINF:-1 group-title="Viju", Viju TV1000
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 group-title="Viju", Viju Action
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 group-title="Viju", Viju Русское
+http://130.193.73.10:8937/play/a02u
+#EXTINF:-1 group-title="Viju", Viju Nature
+http://130.193.73.10:8937/play/a01k
+#EXTINF:-1 group-title="Viju", Viju History
+http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="Viju", Viju Explore
+http://cdntv.online/high/5px3ac89zsm2/317.m3u8
+#EXTINF:-1 group-title="Viju", Viju Sport
+http://31.173.165.29:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Viju", viju romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Aae2ZXyY0C-jexMsUPkBnw&e=1744398095&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
