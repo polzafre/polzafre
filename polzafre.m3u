@@ -107,7 +107,7 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15096/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", Авто 24
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="НОВЫЕ", Авто Плюс
-http://31.173.165.29:8000/play/a058/index.m3u8
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
 
 ---------------------------------------------------
 
