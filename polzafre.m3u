@@ -108,9 +108,6 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15096/index.m3u8
 http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="НОВЫЕ", Авто Плюс
 http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
-#EXTINF:-1 group-title="НОВЫЕ", Авто Плюс
-http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
-
 ---------------------------------------------------
 
 #EXTINF:-1 group-title="1 ПОТОК", BCU Kids 4K
