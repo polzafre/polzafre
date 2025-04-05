@@ -298,8 +298,6 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18051/index.m3u8
 
 ----------------------------------
 
-#EXTINF:-1 group-title="BCU", BCU Fantastic 
-http://ott.watch/stream/DZ66D3MHP4P/488.m3u8
 #EXTINF:-1 group-title="BCU", BCU HD
 http://ott.watch/stream/DZ66D3MHP4P/488.m3u8
 #EXTINF:-1 group-title="BCU", BCU Мультсериал 
