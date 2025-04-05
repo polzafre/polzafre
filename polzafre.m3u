@@ -2,14 +2,16 @@
 #EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ХОЧЕШЬ ОБНОВЛЕНИЯ? ПОМОГАЙ =)
 https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
 
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал HD (+4)
-http://212.20.41.116:4022/udp/225.54.225.161:5000
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал 
+http://178.212.71.253:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал HD 
+http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 1 (+4) HD
 http://212.20.41.116:4022/udp/225.54.225.152:5000
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", НТВ
-https://cdn.ntv.ru/ntv2_sd/tracks-v1a1/rewind-7150.m3u8
+http://195.158.222.113:8000/play/181/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТНТ
-http://212.20.41.116:4022/udp/225.54.205.167:5000
+http://195.158.222.113:8000/play/155/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятница +4
 http://212.20.41.116:4022/udp/225.54.203.16:5000
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятница! УФА
@@ -17,16 +19,21 @@ http://topc.ottc.pro:80/NOOKROYGJC/H9E8GZBCN7/1130829
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Че (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 2х2 HD
+https://river-5-547.rutube.ru/stream/genetta-323.m9.rutube.ru/gtmDOSzp04vpUoH1IkUt-w/1744447288/e2316b43b1803d6c29a542345bbd714e/1080p_stream.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", СТС
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/506/index.m3u8
+http://ott.watch/stream/DZ66D3MHP4P/138.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", СТС
+http://213.91.178.133:8000/play/a042
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Рен ТВ
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2024/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Рен ТВ
+http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятый канал
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/112/index.m3u8
+http://213.91.178.133:8000/play/a0av
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Звезда Плюс HD
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/19230/index.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 12 канал ОМСК HD
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16033/index.m3u8
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 ----------------------------------
 
@@ -278,6 +285,8 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10085/index.m3u8
 
 ----------------------------------
 
+#EXTINF:-1 group-title="Liberty", Liberty Нетфликс
+http://wps5c7yt.rostelekom.xyz/iptv/TQTGTV6WW58X62U7LLRM5DM4/19402/index.m3u8
 #EXTINF:-1 group-title="Liberty", Liberty Боевики FHD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15096/index.m3u8
 #EXTINF:-1 group-title="Liberty", Liberty Мульт 4K
@@ -289,6 +298,18 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18051/index.m3u8
 
 ----------------------------------
 
+#EXTINF:-1 group-title="BCU", BCU Fantastic 
+http://ott.watch/stream/DZ66D3MHP4P/488.m3u8
+#EXTINF:-1 group-title="BCU", BCU HD
+http://ott.watch/stream/DZ66D3MHP4P/488.m3u8
+#EXTINF:-1 group-title="BCU", BCU Мультсериал 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774449&extension=ts&play_token=U9dnwtvCwl
+#EXTINF:-1 group-title="BCU", BCU Кинозал Premiere 1 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774453&extension=ts&play_token=CxDp1YulID
+#EXTINF:-1 group-title="BCU", BCU Кинозал Premiere 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774452&extension=ts&play_token=AfuXosIJel
+#EXTINF:-1 group-title="BCU", BCU Кинозал Premiere 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774451&extension=ts&play_token=9IdgDUVQjd
 #EXTINF:-1 group-title="BCU", BCU Kids 4K
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/17023/index.m3u8
 #EXTINF:-1 group-title="BCU", BCU VHS HD
@@ -309,6 +330,14 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/11042/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
 
 ----------------------------------
+
+#EXTINF:-1 group-title="MM", MM Мегамир
+http://ecc91067.rossteleccom.net/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18195/index.m3u8
+
+
+
+#EXTINF:-1 group-title="MM", MM Мегамир
+
 
 #EXTINF:-1 group-title="MM", MM Боевик Classic HD
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
