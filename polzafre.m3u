@@ -4,10 +4,14 @@ https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try
 
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал 
 http://178.212.71.253:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал HD 
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал 
 http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 1 (+4) HD
 http://212.20.41.116:4022/udp/225.54.225.152:5000
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 24
+http://135.181.115.81:8000/play/a03b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", НТВ
 http://195.158.222.113:8000/play/181/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТНТ
@@ -30,10 +34,16 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2024/index.m3u8
 http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятый канал
 http://213.91.178.133:8000/play/a0av
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Звезда Плюс HD
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Звезда Плюс 
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 12 канал ОМСК HD
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 12 канал ОМСК 
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", РБК HD
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", РБК 
+http://45.11.139.43:8555/rbk/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТВЦ
+http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 
 ----------------------------------
 
@@ -41,17 +51,17 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 http://195.158.222.113:8000/play/162/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Боец
 http://192.168.0.101:9090/PEERS/132
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! СТРАНА HD
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! СТРАНА 
 http://195.158.222.113:8000/play/153/index.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! АРЕНА HD
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! АРЕНА 
 http://195.158.222.113:8000/play/83/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1 
 http://5.8.58.61:8080/eurosport/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://109.70.186.70:9090/udp/239.185.1.15:1234
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime HD 
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9003/index.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge HD
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge 
 http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/19424/index.m3u8
 
 ----------------------------------
@@ -62,6 +72,10 @@ http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9009/index.m3u8
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", THT MUSIC HD
 http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/360649
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Шансон ТВ
+http://194.143.148.28:8080/ShansonTV/mpegts
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Шансон ТВ
+http://178.124.152.238:8088/shanson
 
 ----------------------------------
 
@@ -89,6 +103,8 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9081/index.m3u8
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5002/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Viasat History
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/12019/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", .black
+http://195.158.222.113:8000/play/57/index.m3u8
 
 ----------------------------------
 
@@ -190,27 +206,27 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/14178/index.m3u8
 ----------------------------------
 
 #EXTINF:-1 group-title="КИНО", Кинокомедия
-http://192.168.0.101:9090/PEERS/164
+http://ott.watch/stream/DZ66D3MHP4P/265.m3u8
 #EXTINF:-1 group-title="КИНО", Киномикс
-http://192.168.0.101:9090/PEERS/165
+http://ott.watch/stream/DZ66D3MHP4P/133.m3u8
 #EXTINF:-1 group-title="КИНО", Кинопремьера HD
-http://192.168.0.101:9090/PEERS/167
+http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киносвидание
-http://192.168.0.101:9090/PEERS/168
+http://ott.watch/stream/DZ66D3MHP4P/171.m3u8
 #EXTINF:-1 group-title="КИНО", Киносемья
-http://192.168.0.101:9090/PEERS/169
+http://ott.watch/stream/DZ66D3MHP4P/170.m3u8
 #EXTINF:-1 group-title="КИНО", Киноужас
-http://192.168.0.101:9090/PEERS/170
+http://ott.watch/stream/DZ66D3MHP4P/278.m3u8
 #EXTINF:-1 group-title="КИНО", Кинохит
-http://192.168.0.101:9090/PEERS/171
+http://ott.watch/stream/DZ66D3MHP4P/126.m3u8
 #EXTINF:-1 group-title="КИНО", Киносерия HD
-http://195.158.222.113:8000/play/43/index.m3u8
+http://178.212.71.253:8000/play/64/index.m3u8
 #EXTINF:-1 group-title="КИНО", Кинокомедия HD
 http://ott.watch/stream/DZ66D3MHP4P/265.m3u8
 #EXTINF:-1 group-title="КИНО", Киноужас
-http://ott.watch/stream/DZ66D3MHP4P/278.m3u8
+http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="КИНО", Киносвидание HD
-http://ott.watch/stream/DZ66D3MHP4P/171.m3u8
+http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM5MjU1ODAsImlhdCI6MTc0MzgzOTE4MCwiY2lkIjo2LCJ1aWQiOjkwNjg3MjU5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.ljAOdxhNUhI1P1nioPUKueJ2asMvkP4zGH9C09GxUSI&offset=3
 #EXTINF:-1 group-title="КИНО", Киносемья HD
 http://ott.watch/stream/DZ66D3MHP4P/170.m3u8
 #EXTINF:-1 group-title="КИНО", Киномикс
@@ -223,8 +239,6 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9033/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7248/index.m3u8
 #EXTINF:-1 group-title="КИНО", Кинохит HD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7250/index.m3u8
-#EXTINF:-1 group-title="КИНО", Киносемья HD
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7244/index.m3u8
 
 ----------------------------------
 
@@ -331,12 +345,6 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
 
 #EXTINF:-1 group-title="MM", MM Мегамир
 http://ecc91067.rossteleccom.net/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18195/index.m3u8
-
-
-
-#EXTINF:-1 group-title="MM", MM Мегамир
-
-
 #EXTINF:-1 group-title="MM", MM Боевик Classic HD
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
 #EXTINF:-1 group-title="MM", MM История HD
@@ -355,8 +363,3 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
 #EXTINF:-1 group-title="MM", MM Фантастика HD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
-
-
-
-
-
