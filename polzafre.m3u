@@ -63,10 +63,10 @@ http://178.212.71.253:8000/play/55/index.m3u8
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! АРЕНА 
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1 
-http://5.8.58.61:8080/eurosport/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
-http://109.70.186.70:9090/udp/239.185.1.15:1234
+http://213.91.178.133:8000/play/a04b
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9003/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge 
@@ -90,6 +90,10 @@ http://ott.server-iptv.live/457/video.m3u8?token=S53B863B2A
 http://37.143.109.28:4022/udp/239.72.6.224:1234
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", VF Rock
 http://b3eb5b01.megatv.fun/iptv/2VLF3G39GK7LBH/15517/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
+http://31.173.165.29:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
+http://178.212.71.253:8000/play/31/index.m3u8
 
 ----------------------------------
 
@@ -119,6 +123,16 @@ http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5002/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/12019/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", .black
 http://109.200.130.123:7537/play/a02s
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Travel TV
+http://91.146.94.234:10000/play/a04c
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Travel TV
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Central Europe
+http://91.146.94.234:10000/play/a041
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", National Geographic Wild HD (6 Языков)
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", National Geographic RUS
+https://tv.movielab.pro/143/video.m3u8?token=4ba37ba5552f07d04ea8ae55a84aab390e4e42bb-798ab06ab502ac20b827ba349c4c54ae-1744311896-1744225496
 
 ----------------------------------
 
