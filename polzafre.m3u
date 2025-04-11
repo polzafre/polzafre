@@ -64,9 +64,9 @@ http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! АРЕНА 
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+http://109.70.186.70:9090/udp/239.185.1.14:1234
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
-http://213.91.178.133:8000/play/a04b
+http://109.70.186.70:9090/udp/239.185.1.15:1234
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9003/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge 
@@ -231,21 +231,23 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/20165/index.m3u8
 ----------------------------------
 
 #EXTINF:-1 group-title="КИНО", Кинокомедия
-http://ott.watch/stream/DZ66D3MHP4P/265.m3u8
+http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киномикс
-http://ott.watch/stream/DZ66D3MHP4P/133.m3u8
+http://176.113.48.221:8986/67
 #EXTINF:-1 group-title="КИНО", Кинопремьера 
 http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киносвидание
-http://ott.watch/stream/DZ66D3MHP4P/171.m3u8
+http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ0NDU3ODAsImlhdCI6MTc0NDM1OTM4MCwiY2lkIjo2LCJ1aWQiOjkwODI2MDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.X0gaErAeWvipn16Ah7Yevj3P4Qohl0q9jQhAiuWOTVs&offset=3
+#EXTINF:-1 group-title="КИНО", Киносвидание
+http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="КИНО", Киносемья
-http://ott.watch/stream/DZ66D3MHP4P/170.m3u8
+http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киноужас
-http://ott.watch/stream/DZ66D3MHP4P/278.m3u8
+http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="КИНО", Кинохит
 http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQxNTU5ODAsImlhdCI6MTc0NDA2OTU4MCwiY2lkIjo2LCJ1aWQiOjkwNzUzNzAwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.J4DIx9GjJ7oUFv40j-Ys1X7Jp5karZdeOe2whP9L_0U&offset=3
 #EXTINF:-1 group-title="КИНО", Киносерия
-http://109.197.192.121:8080/kinoseria/index.m3u8
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="КИНО", Кинокомедия 
 http://ott.watch/stream/DZ66D3MHP4P/265.m3u8
 #EXTINF:-1 group-title="КИНО", Киноужас
@@ -261,7 +263,9 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9033/index.m3u8
 #EXTINF:-1 group-title="КИНО", Кинокомедия 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7248/index.m3u8
 #EXTINF:-1 group-title="КИНО", Кинохит 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7250/index.m3u8
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
+#EXTINF:-1 group-title="КИНО", Кинохит 
+http://178.212.71.253:8000/play/123/index.m3u8
 
 ----------------------------------
 
@@ -363,6 +367,9 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/17023/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/11042/index.m3u8
 #EXTINF:-1 group-title="BCU", BCU Marvel 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Fantastic 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774455&extension=ts&play_token=njeMT83OXW
+#EXTINF:-1 group-title="BCU", BCU Мультсериал
 
 ----------------------------------
 
