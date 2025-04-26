@@ -159,7 +159,7 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13004/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Кинопоказ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="ФИЛЬМЫ", Trash HD
-http://178.163.5.162:4022/udp/234.0.0.3:2000
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Страшное
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774405&extension=ts&play_token=RTX455Lwpg
 
