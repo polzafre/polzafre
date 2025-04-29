@@ -6,12 +6,10 @@ https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try
 
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал 
 http://178.212.71.253:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал 
-http://178.212.71.253:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 1 
 http://212.20.41.116:4022/udp/225.54.225.152:5000
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 24
-http://135.181.115.81:8000/play/a03b/index.m3u8?token=livetv
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", НТВ
@@ -29,7 +27,7 @@ https://salam-mskth-46.rutube.ru/dive/river-5-547.rutube.ru/kpG3E2SJoKoefNx6ydk6
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", СТС
 http://213.91.178.133:8000/play/a042
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Рен ТВ
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2024/index.m3u8
+
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятый канал
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Звезда Плюс 
@@ -66,18 +64,18 @@ http://109.70.186.70:9090/udp/239.185.1.14:1234
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://109.70.186.70:9090/udp/239.185.1.15:1234
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9003/index.m3u8
+
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge
 http://tv.filmax-tv.ru/p9/41cd00e23fa3930b84c4d977eb832ebb/video.m3u8?token=l6uiewfnno
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge
-http://tv.filmax-tv.ru/p9/41cd00e23fa3930b84c4d977eb832ebb/video.m3u8?token=r1go8xqkto
+
 
 ----------------------------------
 
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Live 
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Classic
-http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", THT MUSIC 
 http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/360649
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Шансон ТВ
@@ -130,7 +128,7 @@ http://91.146.94.234:10000/play/a041
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", National Geographic Wild HD (6 Языков)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Видеокассета
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/16049/index.m3u8
+
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Channel
 http://91.146.94.234:10000/play/a041
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Channel
@@ -454,5 +452,45 @@ https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/2imGC3YxOShblg
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/74_4qgC-G4TBNg
 #EXTINF:-1 group-title="KinoPolzaFre", Невероятно уменьшающийся человек (1957)
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/eFsdHXcJW5Z6JA
+
+----------------------------------
+
+#EXTINF:-1 group-title="ТЕСТ", Рен ТВ
+http://176.113.88.64:81/udp/239.195.1.225:1234
+#EXTINF:-1 group-title="ТЕСТ", Рен ТВ
+http://176.113.88.64:81/udp/239.195.1.11:1234
+#EXTINF:-1 group-title="ТЕСТ", Рен ТВ
+http://95.215.125.200:5000/udp/225.1.2.26:1234
+
+#EXTINF:-1 group-title="ТЕСТ", KHL Prime 
+http://176.210.21.201:1234/udp/233.7.70.5:5000
+#EXTINF:-1 group-title="ТЕСТ", KHL Prime 
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="ТЕСТ", KHL Prime 
+http://5.137.218.158:1234/udp/233.7.70.5:5000
+#EXTINF:-1 group-title="ТЕСТ", viju+ Megahit
+http://5.137.218.158:1234/udp/225.54.225.215:5000
+#EXTINF:-1 group-title="ТЕСТ", viju Explore
+http://5.137.218.158:1234/udp/233.7.70.16:5000
+#EXTINF:-1 group-title="ТЕСТ", VHS-ка HD
+http://95.181.85.13:81/udp/239.255.42.88:1234
+#EXTINF:-1 group-title="ТЕСТ", Дом кино Премиум HD
+http://176.113.88.64:81/udp/239.195.1.162:1234
+#EXTINF:-1 group-title="ТЕСТ", Еврокино HD
+http://176.113.88.64:81/udp/239.195.1.56:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
