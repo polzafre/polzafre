@@ -455,42 +455,25 @@ https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/eFsdHXcJW5Z6JA
 
 ----------------------------------
 
-#EXTINF:-1 group-title="ТЕСТ", Рен ТВ
-http://176.113.88.64:81/udp/239.195.1.225:1234
-#EXTINF:-1 group-title="ТЕСТ", Рен ТВ
-http://176.113.88.64:81/udp/239.195.1.11:1234
-#EXTINF:-1 group-title="ТЕСТ", Рен ТВ
-http://95.215.125.200:5000/udp/225.1.2.26:1234
-
 #EXTINF:-1 group-title="ТЕСТ", KHL Prime 
-http://176.210.21.201:1234/udp/233.7.70.5:5000
+http://176.51.75.183:1234/udp/225.54.225.204:5000
 #EXTINF:-1 group-title="ТЕСТ", KHL Prime 
 http://194.143.148.28:8080/KHL_HD/mpegts
-#EXTINF:-1 group-title="ТЕСТ", KHL Prime 
-http://5.137.218.158:1234/udp/233.7.70.5:5000
-#EXTINF:-1 group-title="ТЕСТ", viju+ Megahit
-http://5.137.218.158:1234/udp/225.54.225.215:5000
+#EXTINF:-1 group-title="ТЕСТ", viju Megahit
+http://176.51.75.183:1234/udp/225.54.225.215:5000
 #EXTINF:-1 group-title="ТЕСТ", viju Explore
-http://5.137.218.158:1234/udp/233.7.70.16:5000
+http://176.51.75.183:1234/udp/233.7.70.16:5000
 #EXTINF:-1 group-title="ТЕСТ", VHS-ка HD
 http://95.181.85.13:81/udp/239.255.42.88:1234
 #EXTINF:-1 group-title="ТЕСТ", Дом кино Премиум HD
-http://176.113.88.64:81/udp/239.195.1.162:1234
-#EXTINF:-1 group-title="ТЕСТ", Еврокино HD
-http://176.113.88.64:81/udp/239.195.1.56:1234
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://176.51.75.183:1234/udp/225.54.225.183:5000
+#EXTINF:-1 group-title="ТЕСТ", Матч! Премьер HD
+http://176.51.75.183:1234/udp/225.54.225.177:5000
+#EXTINF:-1 group-title="ТЕСТ", Мульт HD
+http://176.51.75.183:1234/udp/225.54.225.175:5000
+#EXTINF:-1 group-title="ТЕСТ", Mezzo Live HD
+http://176.51.75.183:1234/udp/225.54.225.174:5000
+#EXTINF:-1 group-title="ТЕСТ", Gagsnetwork HD
+http://176.51.75.183:1234/udp/225.54.225.27:5000
 
 
