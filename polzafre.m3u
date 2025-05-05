@@ -23,11 +23,11 @@ http://topc.ottc.pro:80/NOOKROYGJC/H9E8GZBCN7/1130829
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 2х2 
-https://salam-mskth-46.rutube.ru/dive/river-5-547.rutube.ru/kpG3E2SJoKoefNx6ydk6Rg/stream/genetta-323.m9.rutube.ru/6er7vf-xXvHIP8kaRSTa-w/1746262430/e2316b43b1803d6c29a542345bbd714e/1080p_stream.m3u8
+http://194.190.62.4:81/udp/239.195.1.26:1234
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", СТС
 http://213.91.178.133:8000/play/a042
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Рен ТВ
-
+http://194.190.62.4:81/udp/239.195.1.225:1234
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятый канал
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Звезда Плюс 
@@ -44,13 +44,9 @@ http://178.212.71.253:8000/play/10/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва. Доверие
 http://178.163.45.211:81/udp/234.0.0.99:2000
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва. Доверие
-
 
 ----------------------------------
 
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
-http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Боец
@@ -63,12 +59,8 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://109.70.186.70:9090/udp/239.185.1.14:1234
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://109.70.186.70:9090/udp/239.185.1.15:1234
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime 
-
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge
 http://tv.filmax-tv.ru/p9/41cd00e23fa3930b84c4d977eb832ebb/video.m3u8?token=l6uiewfnno
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge
-
 
 ----------------------------------
 
@@ -84,14 +76,10 @@ http://194.143.148.28:8080/ShansonTV/mpegts
 http://178.124.152.238:8088/shanson
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Bridge Rock
 http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Bridge Rock
-http://178.208.248.34:4022/udp/239.72.6.224:1234
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", VF Rock
 http://b3eb5b01.megatv.fun/iptv/2VLF3G39GK7LBH/15517/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
 http://178.212.71.253:8000/play/31/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
 
 ----------------------------------
 
@@ -124,26 +112,24 @@ http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Travel TV
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Central Europe
-http://91.146.94.234:10000/play/a041
+
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", National Geographic Wild HD (6 Языков)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Видеокассета
-
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Channel
-http://91.146.94.234:10000/play/a041
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Channel
 http://rr3.8v8i8p.com/20689cbc9966bdeb8a18b96b8aa36090cb3/2005/hls/pl.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Т24
-http://de.online24.pm/play/101/F1B8D744B3A2467/video.m3u8
+http://178.212.71.253:8000/play/63/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Мосфильм. Золотая коллекция
-http://de.online24.pm/play/4985/F1B8D744B3A2467/video.m3u8
+http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Gagsnetwork
-http://212.20.41.116:4022/udp/225.54.225.27:5000
+
 
 ----------------------------------
 
 #EXTINF:-1 group-title="ФИЛЬМЫ", Cinema
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11029.m3u8
+http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzAyODkzNCwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ2NDI0MTM0LCJzZXNzaW9uX2lkIjoiZmM2MTVjZTFlMDFhN2FmNTJhZmQ2NTEwNTU4OGRlYjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YpNDF_r2TzPTe4wvUI9A9d-VIdEM20Q_aBVv1H9RTck
 #EXTINF:-1 group-title="ФИЛЬМЫ", МужскоеКино
 http://212.20.41.116:4022/udp/225.54.225.176:5000
 #EXTINF:-1 group-title="ФИЛЬМЫ", Ultra HD Cinema 
@@ -153,11 +139,11 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/5006/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", CineMan Ментовские войны
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16063/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13004/index.m3u8
+
 #EXTINF:-1 group-title="ФИЛЬМЫ", Кинопоказ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
-#EXTINF:-1 group-title="ФИЛЬМЫ", Trash HD
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Trash
+
 #EXTINF:-1 group-title="ФИЛЬМЫ", Страшное
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774405&extension=ts&play_token=RTX455Lwpg
 
@@ -166,7 +152,7 @@ http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774405&ext
 #EXTINF:-1 group-title="Viju", Viju TV1000
 https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Viju", Viju TV1000
-http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
+http://130.193.73.10:8937/play/a02s
 #EXTINF:-1 group-title="Viju", Viju TV1000 action
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 group-title="Viju", Viju Русское
@@ -174,13 +160,13 @@ http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 group-title="Viju", Viju Nature
 http://130.193.73.10:8937/play/a01k
 #EXTINF:-1 group-title="Viju", Viju History
-http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
+
 #EXTINF:-1 group-title="Viju", Viju Explore
 http://109.70.186.70:9090/udp/239.185.1.5:1234
 #EXTINF:-1 group-title="Viju", Viju Sport
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Viju", Viju Sport
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
+
 #EXTINF:-1 group-title="Viju", viju Romantica
 http://109.70.186.70:9090/udp/239.185.1.22:1234
 #EXTINF:-1 group-title="Viju", Viju Premiere
@@ -194,15 +180,13 @@ http://tv7.skaz.tv:34002/20/tracks-v1a1/mono.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJh
 #EXTINF:-1 group-title="Viju", Viju TV1000
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9057/index.m3u8
 #EXTINF:-1 group-title="Viju", Viju History 
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/9060/index.m3u8
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDY1MjExODAsImlhdCI6MTc0NjQzNDc4MCwiY2lkIjo2LCJ1aWQiOjkxMzg3ODQ1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lii3awnonO2H6NAU3yaguZt5fc0MudAWF4GtgwoX3Jk&offset=3
 #EXTINF:-1 group-title="Viju", Viju Comedy
-http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDY1MjExODAsImlhdCI6MTc0NjQzNDc4MCwiY2lkIjo2LCJ1aWQiOjkxMzg3ODQ1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lii3awnonO2H6NAU3yaguZt5fc0MudAWF4GtgwoX3Jk&offset=3
 #EXTINF:-1 group-title="Viju", Viju Premiere
-http://109.70.186.70:9090/udp/239.185.1.10:1234
+
 #EXTINF:-1 group-title="Viju", Viju Sport
-http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Viju", Viju Sport
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ2MjkzODMsImlhdCI6MTc0NDU0Mjk4MywiY2lkIjo2LCJ1aWQiOjkwODczNDcwMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.WFkDF7u0ro5SWNuNEIBtnBqOSPH2sGyYZF0T0x_4si8&offset=3
+http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDY1MjExODAsImlhdCI6MTc0NjQzNDc4MCwiY2lkIjo2LCJ1aWQiOjkxMzg3ODQ1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.lii3awnonO2H6NAU3yaguZt5fc0MudAWF4GtgwoX3Jk&offset=3
 
 ----------------------------------
 
