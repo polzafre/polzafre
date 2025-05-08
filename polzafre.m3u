@@ -43,12 +43,16 @@ http://178.212.71.253:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТВ-3
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва. Доверие
-http://178.163.45.211:81/udp/234.0.0.99:2000
+
 
 ----------------------------------
 
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
+http://s1.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/26385/hlsx/pl.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Боец
 http://178.212.71.253:8000/play/55/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! СТРАНА 
@@ -60,12 +64,12 @@ http://109.70.186.70:9090/udp/239.185.1.14:1234
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://109.70.186.70:9090/udp/239.185.1.15:1234
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge
-http://tv.filmax-tv.ru/p9/41cd00e23fa3930b84c4d977eb832ebb/video.m3u8?token=l6uiewfnno
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/93885/hlsx/pl.m3u8
 
 ----------------------------------
 
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Live 
-
+https://bl.rutube.ru/livestream/2e8d2bd1b1c868b180482ae78cc98dce/index.m3u8?s=a-qcubxN-15dGEfTbU29_g&e=1746773826&scheme=https
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Classic
 
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", THT MUSIC 
@@ -80,6 +84,8 @@ http://178.212.71.253:8000/play/101/index.m3u8
 http://b3eb5b01.megatv.fun/iptv/2VLF3G39GK7LBH/15517/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
 http://178.212.71.253:8000/play/31/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
+http://158.101.222.193:88/georgia_play.php?id=mezzo
 
 ----------------------------------
 
@@ -115,16 +121,16 @@ https://streamer103.neterra.tv/travel/travel_SD.m3u8
 
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", National Geographic Wild HD (6 Языков)
 http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Видеокассета
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Channel
 http://rr3.8v8i8p.com/20689cbc9966bdeb8a18b96b8aa36090cb3/2005/hls/pl.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Т24
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Т24
 http://178.212.71.253:8000/play/63/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Мосфильм. Золотая коллекция
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Gagsnetwork
-
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
 
 ----------------------------------
 
@@ -136,16 +142,18 @@ http://212.20.41.116:4022/udp/225.54.225.176:5000
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", VHS-ка 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/5006/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ", CineMan Ментовские войны
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16063/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema 
 
 #EXTINF:-1 group-title="ФИЛЬМЫ", Кинопоказ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="ФИЛЬМЫ", Trash
-
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/33428/hlsx/pl.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Trash
+http://de.online24.pm/play/4830/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Страшное
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774405&extension=ts&play_token=RTX455Lwpg
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/51061/hlsx/pl.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Видеокассета
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 
 ----------------------------------
 
@@ -193,70 +201,63 @@ http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJ
 #EXTINF:-1 group-title="YOSSO", YOSSO 4K
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/16153/index.m3u8
 #EXTINF:-1 group-title="YOSSO", Yosso TV Adrenaline
-http://95.216.32.41:8000/play/a01b/index.m3u8
+http://de.online24.pm/play/8783/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Adventure
-http://95.216.32.41:8000/play/a01c/index.m3u8
+http://de.online24.pm/play/8769/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV BEST
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/20165/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Grand
-http://95.216.32.41:8000/play/a019/index.m3u8
+
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Ковбойское
-http://95.216.32.41:8000/play/a01g/index.m3u8
+http://de.online24.pm/play/8782/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Мелодрама
-http://95.216.32.41:8000/play/a01f/index.m3u8
+
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Netflix
-http://95.216.32.41:8000/play/a01y/index.m3u8
+
 #EXTINF:-1 group-title="YOSSO", YOSSO TV New Кино
-http://95.216.32.41:8000/play/a017/index.m3u8
+http://de.online24.pm/play/8773/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Трагичное
-http://95.216.32.41:8000/play/a00f/index.m3u8
+http://de.online24.pm/play/8770/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Thriller
-http://95.216.32.41:8000/play/a01d/index.m3u8
+http://de.online24.pm/play/8785/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Забавное
-http://95.216.32.41:8000/play/a01h/index.m3u8
+http://de.online24.pm/play/8780/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Best
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/20165/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Союзмульт
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/14178/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Союзмульт
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/14178/index.m3u8
-#EXTINF:-1 group-title="YOSSO", YOSSO TV Союзмульт
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/14178/index.m3u8
-#EXTINF:-1 group-title="YOSSO", YOSSO TV Best 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/20165/index.m3u8
+
 
 ----------------------------------
 
 #EXTINF:-1 group-title="КИНО", Кинокомедия
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киномикс
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
+http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
+http://109.248.236.51/kinomix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО", Кинопремьера 
-http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="КИНО", Кинопремьера 
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киносвидание
-http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ0NDU3ODAsImlhdCI6MTc0NDM1OTM4MCwiY2lkIjo2LCJ1aWQiOjkwODI2MDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.X0gaErAeWvipn16Ah7Yevj3P4Qohl0q9jQhAiuWOTVs&offset=3
+http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киносвидание
-http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
+http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО", Киносемья
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киноужас
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="КИНО", Кинохит
-http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киносерия
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="КИНО", Кинокомедия 
-http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU3MzYzODAsImlhdCI6MTc0NTY0OTk4MCwiY2lkIjo2LCJ1aWQiOjkxMTgzMjYwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.bc3kg-3JbOLfvUR_7mVyo22x_f0w1ZP1bLzy5F0MWic&offset=3
 #EXTINF:-1 group-title="КИНО", Киноужас
-http://109.200.130.123:7537/play/a021
+http://178.212.71.253:8000/play/133/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киносемья 
-http://ott.watch/stream/DZ66D3MHP4P/170.m3u8
-#EXTINF:-1 group-title="КИНО", Киномикс
-http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="КИНО", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="КИНО", Кинопремьера 
@@ -265,71 +266,75 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9020/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9033/index.m3u8
 #EXTINF:-1 group-title="КИНО", Кинокомедия 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7248/index.m3u8
-#EXTINF:-1 group-title="КИНО", Кинохит 
-http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
-#EXTINF:-1 group-title="КИНО", Кинохит 
-http://178.212.71.253:8000/play/123/index.m3u8
 
 ----------------------------------
 
 #EXTINF:-1 group-title="Fresh", Fresh Adventure
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19297/index.m3u8
+http://de.online24.pm/play/1647/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Cinema
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19287/index.m3u8
+http://de.online24.pm/play/1645/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Comedy
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19289/index.m3u8
+http://de.online24.pm/play/1688/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Family
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19291/index.m3u8
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/88549/hlsx/pl.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Fantastic
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19294/index.m3u8
+http://de.online24.pm/play/1639/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Horror
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19296/index.m3u8
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/74875/hlsx/pl.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Kids
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19288/index.m3u8
+http://de.online24.pm/play/1644/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Premiere
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19290/index.m3u8
+http://de.online24.pm/play/1643/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Rating
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19292/index.m3u8
+http://de.online24.pm/play/1641/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Romantic
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19298/index.m3u8
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/89664/hlsx/pl.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Series
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19295/index.m3u8
+http://de.online24.pm/play/1638/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Thriller
-http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19300/index.m3u8
+https://rr2.1ott.net/109e55ccbb4a759cfc4f86a9bc10f9bbd5d/81847/hlsx/pl.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh VHS
-http://de.online24.pm/play/1640/F1B8D744B3A2467/video.m3u8
+http://de.online24.pm/play/1640/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh TV
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 
 ----------------------------------
 
+#EXTINF:-1 group-title="CineMan", CineMan Ментовские войны
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/45271/hls/pl.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Action
-http://de.online24.pm/play/13002/F1B8D744B3A2467/video.m3u8
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/63846/hls/pl.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Marvel
-http://de.online24.pm/play/13006/F1B8D744B3A2467/video.m3u8
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/47931/hls/pl.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Melodrama
-http://de.online24.pm/play/13007/F1B8D744B3A2467/video.m3u8
+http://de.online24.pm/play/13007/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan VHS
-http://de.online24.pm/play/13019/F1B8D744B3A2467/video.m3u8
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/59429/hls/pl.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Симпсоны
-http://de.online24.pm/play/13013/F1B8D744B3A2467/video.m3u8
+http://de.online24.pm/play/13013/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Ужасы
-http://de.online24.pm/play/13018/F1B8D744B3A2467/video.m3u8
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/47298/hls/pl.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Глухарь + Карпов
-http://de.online24.pm/play/13029/F1B8D744B3A2467/video.m3u8
+http://de.online24.pm/play/13029/AACDF424F824C27/video.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Top
-http://de.online24.pm/play/13017/F1B8D744B3A2467/video.m3u8
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/29842/hls/pl.m3u8
 #EXTINF:-1 group-title="CineMan", CineMan Сваты
-http://de.online24.pm/play/13015/F1B8D744B3A2467/video.m3u8
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/62337/hls/pl.m3u8
 
 ----------------------------------
 
 #EXTINF:-1 group-title="Magic", Magic VHS 
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/18062/index.m3u8
 #EXTINF:-1 group-title="Magic", Magic VHS 
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18062/index.m3u8
-#EXTINF:-1 group-title="Magic", Magic VHS 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18062/index.m3u8
+http://de.online24.pm/play/6670/AACDF424F824C27/video.m3u8
+#EXTINF:-1 group-title="Magic", Magic Thriller
+http://de.online24.pm/play/6677/AACDF424F824C27/video.m3u8
+#EXTINF:-1 group-title="Magic", Magic Russian
+http://de.online24.pm/play/6683/AACDF424F824C27/video.m3u8
+#EXTINF:-1 group-title="Magic", Magic Karate
+http://de.online24.pm/play/6671/AACDF424F824C27/video.m3u8
+#EXTINF:-1 group-title="Magic", Magic Horror
+http://de.online24.pm/play/6673/AACDF424F824C27/video.m3u8
 
 ----------------------------------
 
@@ -340,63 +345,53 @@ http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10086/index.m3u8
 #EXTINF:-1 group-title="VF", VF Фильмы СССР
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10085/index.m3u8
 #EXTINF:-1 group-title="VF", VF Мультфильмы СССР
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10086/index.m3u8
-#EXTINF:-1 group-title="VF", VF Фильмы СССР
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10085/index.m3u8
-#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10086/index.m3u8
-#EXTINF:-1 group-title="VF", VF Фильмы СССР
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10085/index.m3u8
 
 ----------------------------------
 
 #EXTINF:-1 group-title="Liberty", Liberty Нетфликс
-http://wps5c7yt.rostelekom.xyz/iptv/TQTGTV6WW58X62U7LLRM5DM4/19402/index.m3u8
+
 #EXTINF:-1 group-title="Liberty", Liberty Боевики 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15096/index.m3u8
 #EXTINF:-1 group-title="Liberty", Liberty Мульт 
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/18051/index.m3u8
-#EXTINF:-1 group-title="Liberty", Liberty Мульт 
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18051/index.m3u8
-#EXTINF:-1 group-title="Liberty", Liberty Мульт 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18051/index.m3u8
 
 ----------------------------------
 
 #EXTINF:-1 group-title="BCU", BCU Мультсериал 
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774449&extension=ts&play_token=U9dnwtvCwl
+
 #EXTINF:-1 group-title="BCU", BCU Кинозал Premiere 1 
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774453&extension=ts&play_token=CxDp1YulID
+
 #EXTINF:-1 group-title="BCU", BCU Кинозал Premiere 2 
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774452&extension=ts&play_token=AfuXosIJel
+
 #EXTINF:-1 group-title="BCU", BCU Кинозал Premiere 3 
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774451&extension=ts&play_token=9IdgDUVQjd
+
 #EXTINF:-1 group-title="BCU", BCU Kids 
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11035.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU VHS 
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11042.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU Marvel 
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11038.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU Kids 
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11035.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU VHS 
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11042.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU Marvel 
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11038/index.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU Kids 
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/17023.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU VHS 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/11042/index.m3u8
+
 #EXTINF:-1 group-title="BCU", BCU Marvel 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
 #EXTINF:-1 group-title="BCU", BCU Fantastic 
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:BB:3F:36&stream=774455&extension=ts&play_token=njeMT83OXW
+
 #EXTINF:-1 group-title="BCU", BCU Мультсериал
 
 ----------------------------------
 
 #EXTINF:-1 group-title="MM", MM Мегамир
-http://ecc91067.rossteleccom.net/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18195/index.m3u8
+
 #EXTINF:-1 group-title="MM", MM Боевик Classic 
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
 #EXTINF:-1 group-title="MM", MM История 
@@ -404,17 +399,17 @@ http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13033/index.m3u8
 #EXTINF:-1 group-title="MM", MM Фантастика 
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
 #EXTINF:-1 group-title="MM", MM Боевик Classic 
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13027/index.m3u8
+
 #EXTINF:-1 group-title="MM", MM История 
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
+
 #EXTINF:-1 group-title="MM", MM Фантастика 
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
+
 #EXTINF:-1 group-title="MM", MM Боевик Classic 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
 #EXTINF:-1 group-title="MM", MM История 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
 #EXTINF:-1 group-title="MM", MM Фантастика 
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
+
 
 ----------------------------------
 
@@ -439,25 +434,8 @@ https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/eFsdHXcJW5Z6JA
 
 ----------------------------------
 
-#EXTINF:-1 group-title="ТЕСТ", KHL Prime 
-http://176.51.75.183:1234/udp/225.54.225.204:5000
-#EXTINF:-1 group-title="ТЕСТ", KHL Prime 
-http://194.143.148.28:8080/KHL_HD/mpegts
-#EXTINF:-1 group-title="ТЕСТ", viju Megahit
-http://176.51.75.183:1234/udp/225.54.225.215:5000
-#EXTINF:-1 group-title="ТЕСТ", viju Explore
-http://176.51.75.183:1234/udp/233.7.70.16:5000
 #EXTINF:-1 group-title="ТЕСТ", VHS-ка HD
 http://95.181.85.13:81/udp/239.255.42.88:1234
-#EXTINF:-1 group-title="ТЕСТ", Дом кино Премиум HD
-http://176.51.75.183:1234/udp/225.54.225.183:5000
-#EXTINF:-1 group-title="ТЕСТ", Матч! Премьер HD
-http://176.51.75.183:1234/udp/225.54.225.177:5000
-#EXTINF:-1 group-title="ТЕСТ", Мульт HD
-http://176.51.75.183:1234/udp/225.54.225.175:5000
-#EXTINF:-1 group-title="ТЕСТ", Mezzo Live HD
-http://176.51.75.183:1234/udp/225.54.225.174:5000
-#EXTINF:-1 group-title="ТЕСТ", Gagsnetwork HD
-http://176.51.75.183:1234/udp/225.54.225.27:5000
+
 
 
