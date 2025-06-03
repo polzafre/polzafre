@@ -56,15 +56,11 @@ http://vod.tuva.ru/tvcentr/tracks-v1a1/mono.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва. Доверие
 http://213.91.178.133:8000/play/a0b2
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва. Доверие
-http://vipl.one/hls/cf4wbak7ur5s/582.m3u8
 
 ----------------------------------
 
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
-https://mhd128.iptv2022.com/p/wwGQYOO5rg9nSB9xruqPRg,1748638813/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
-https://mhd128.iptv2022.com/p/OxkTiw7iu_jHrCeZUv0Kyg,1748638813/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+http://ott.watch/live/AU4JPU67WZ/193/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Боец
@@ -79,17 +75,19 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://178.212.71.253:8000/play/143/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1
 http://217.113.25.29:8001/play/a03t/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://213.91.178.133:8000/play/a04b
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://87.118.142.91:6060/play/a03k
-#EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
-https://32tech0steam0dp01.org/live/IT_Eurosport2FHD/chunks.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", UDAR
+http://ott.watch/live/AU4JPU67WZ/279/tracks-v1a1/mono.ts.m3u8
 
 ----------------------------------
 
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Live 
-
+http://ott.watch/live/AU4JPU67WZ/215/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Classic (VPN)
 https://fl3.moveonjoy.com/MTV_CLASSIC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", THT MUSIC 
@@ -112,8 +110,6 @@ http://178.212.71.253:8002/play/a00n/index.m3u8
 http://178.212.71.253:8000/play/31/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Trace Urban 
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Trace Urban
-http:\\dmi3y-tv.ru\hls\CH_TRACE_URBAN.m3u8
 
 ----------------------------------
 
@@ -136,8 +132,6 @@ http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5003/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Глазами Туриста 
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/15191/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Наша Сибирь 
-http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Наша Сибирь 
 https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Дикая охота 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9081/index.m3u8
@@ -146,9 +140,7 @@ http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5002/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Viasat History
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/12019/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", .black
-http://s1.merlive.am/black/index.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", .black
-https://mhd128.iptv2022.com/p/oZrplNq_fZqMXS9S4ug63g,1748898007/streaming/black/324/1/tracks-v5a1/mono.m3u8
+http://vipl.one/hls/cf4wbak7ur5s/506.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", .red
 http:\\31.173.165.29:8000\play\a04z\index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", .red
@@ -168,7 +160,9 @@ http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4NzA3Iiwic3RwIjoiMS
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Мосфильм. Золотая коллекция
 http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", HGTV Home & Garden
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48389/hls/pl.m3u8
+http://vipl.one/hls/cf4wbak7ur5s/1033.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", TLC
+http://vipl.one/hls/cf4wbak7ur5s/169.m3u8
 
 ----------------------------------
 
@@ -191,9 +185,9 @@ http://de.online24.pm/play/4830/152A61E307BD825/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Страшное
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTk4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUzLzgxOTgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjUiLCJhZnAiOiI4MTk4IiwiYXRzIjoiMTY4IiwibCI6IjZkMDc1Zjk0IiwicCI6IjZkMDc1Zjk0N2VlOTAyYTYiLCJjIjoiMTg3IiwidCI6IjZkN2JlMjhlYzUxOTFlMmJlY2Q0NDBlY2ViN2UwNmM1IiwiZCI6IjI1OTk2NyIsInIiOiIyNjU0ODEiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxOTgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Видеокассета
-
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Видеокассета
-
+http://hlss.goodgame.ru/hls/176975.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", 1FILMAX Фантастика
 http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", 2FILMAX Комедия
@@ -201,7 +195,13 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Киноман
 http://178.212.71.253:8000/play/66/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Kino24 Russia
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Hollywood
+http://92.242.110.52:9835/udp/238.1.11.11:1234
+#EXTINF:-1 group-title="ФИЛЬМЫ", СТРАХ
+https://s.catcast.tv/content/34816/index.m3u8?token=1bb146b3d5df798b8089b42adbf2c990
+#EXTINF:-1 group-title="ФИЛЬМЫ", СТРАХ
+http://r.faola.li/6832/index.m3u8?token=ao89tMyxdI
 
 ----------------------------------
 
