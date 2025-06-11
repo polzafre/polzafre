@@ -66,7 +66,7 @@ http://ott.watch/live/AU4JPU67WZ/193/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Боец
-http://178.163.48.61:4022/udp/234.0.0.6:2000
+http://178.212.71.253:8000/play/55/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! СТРАНА 
 http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! АРЕНА 
@@ -74,13 +74,15 @@ http://ott.watch/live/AU4JPU67WZ/163/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1
-http://217.113.25.29:8001/play/a03t/index.m3u8
+http://178.212.71.253:8000/play/143/index.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://213.91.178.133:8000/play/a04b
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 
 http://87.118.142.91:6060/play/a03k
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", UDAR
-http://vipl.one/hls/b5sec4jyih/381.m3u8
+http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", UDAR
+http://chiburator.monster:8000/play/XslsQOPKS4NTdu2WsHodQrsnlNdq-qVq0FZEW7SG0mM/ts
 
 ----------------------------------
 
@@ -107,7 +109,7 @@ http://178.212.71.253:8002/play/a00n/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
 http://178.212.71.253:8000/play/31/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Trace Urban 
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
 ----------------------------------
 
@@ -130,7 +132,7 @@ http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5003/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Глазами Туриста 
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/15191/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Наша Сибирь 
-https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
+http://arbiter.bolshoe.tv/?path=abr1/nashasibirHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI1IDY6NTc6NTcgQU0maGFzaF92YWx1ZT1ETURDRnQ1MzJ0emtaT3k1eWhHcEpRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Дикая охота 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9081/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", MyZen TV 
@@ -146,25 +148,25 @@ http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Travel TV
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", National Geographic Wild HD (6 Языков)
-http://78.130.250.2:8023/play/a02c/index.m3u8
+
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Channel
 http://rr3.8v8i8p.com/20689cbc9966bdeb8a18b96b8aa36090cb3/2005/hls/pl.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Т24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Т24
-http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk0NTIyNTQsImlhdCI6MTc0OTM2NTg1NCwiY2lkIjo2LCJ1aWQiOjkyMjM4NzgwNywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.RHGgO_0HDefBbHPOTt_jtG3Lp9PdyyKKp8U_ZAhVP0I&offset=10
+
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Мосфильм. Золотая коллекция
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4NzA3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTU1Lzg3MDcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzQiLCJhZnAiOiI4NzA3IiwiYXRzIjoiMzM2IiwibCI6IjZkMDc1Zjk0IiwicCI6IjZkMDc1Zjk0N2VlOTAyYTYiLCJjIjoiMzUxIiwidCI6IjZkN2JlMjhlYzUxOTFlMmJlY2Q0NDBlY2ViN2UwNmM1IiwiZCI6IjI1OTk2NyIsInIiOiIyNjU0ODEiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg3MDcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Мосфильм. Золотая коллекция
 http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", HGTV Home & Garden
 http://vipl.one/hls/cf4wbak7ur5s/1033.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", HGTV Home & Garden
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MzU1Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUzLzgzNTUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzciLCJhZnAiOiI4MzU1IiwiYXRzIjoiMzM2IiwibCI6IjQ5MTViNjE2IiwicCI6IjQ5MTViNjE2ZDIyY2VkMjIiLCJjIjoiMjc0IiwidCI6ImFiYjcwZmE5MDllNTVjNzVlYTRlM2NiNGUwZDRhMzc1IiwiZCI6IjE5MjI1MSIsInIiOiIxOTYwNDciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgzNTUvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+http://chiburator.monster:8000/play/XslsQOPKS4NTdu2WsHodQv8ZzL_RvY1QYFRN8puDTp4/ts
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", TLC (не русский)
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", TLC
-
+http://chiburator.monster:8000/play/XslsQOPKS4NTdu2WsHodQhn9OnuEzT-JlLn_ZfdMQN-GQYNWvQ8wp5ECDG02TQav/ts
 
 ----------------------------------
 
@@ -183,9 +185,9 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/5006/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Кинопоказ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="ФИЛЬМЫ", Trash
-http://de.online24.pm/play/4830/152A61E307BD825/video.m3u8
+http://chiburator.monster:8000/play/XslsQOPKS4NTdu2WsHodQtf1LHO7XBGHVyFSM1OjgaI/ts
 #EXTINF:-1 group-title="ФИЛЬМЫ", Страшное
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTk4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUzLzgxOTgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjUiLCJhZnAiOiI4MTk4IiwiYXRzIjoiMTY4IiwibCI6IjZkMDc1Zjk0IiwicCI6IjZkMDc1Zjk0N2VlOTAyYTYiLCJjIjoiMTg3IiwidCI6IjZkN2JlMjhlYzUxOTFlMmJlY2Q0NDBlY2ViN2UwNmM1IiwiZCI6IjI1OTk2NyIsInIiOiIyNjU0ODEiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxOTgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+http://chiburator.monster:8000/play/XslsQOPKS4NTdu2WsHodQvJ-lDnKq7u8N0Ltti6678s/ts
 #EXTINF:-1 group-title="ФИЛЬМЫ", Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Видеокассета
@@ -201,9 +203,9 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", Hollywood
 http://92.242.110.52:9835/udp/238.1.11.11:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", СТРАХ
-
+http://chiburator.monster:8000/play/XslsQOPKS4NTdu2WsHodQqiSt3ro5murzpaA5FnBrG4/ts
 #EXTINF:-1 group-title="ФИЛЬМЫ", СТРАХ
-
+http://chiburator.monster:8000/play/XslsQOPKS4NTdu2WsHodQs-0pqK61XuaLNbf_MwOEsc/ts
 
 ----------------------------------
 
@@ -530,4 +532,10 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="ТЕСТ",Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="ТЕСТ", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+
+
+
+
 
