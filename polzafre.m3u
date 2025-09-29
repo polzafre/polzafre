@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="REVOLYO", Revolyo Mnemo
-https://autopilot.catcast.tv/content/49605/index.m3u8
+#EXTINF:-1 group-title="REVOLYO" tvg-logo="https://i.ibb.co/mrBfHb29/image.png",Revolyo Mnemo
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 #EXTINF:-1 group-title="ПЛЕЙЛИСТ ТОРМОЗИТ?", T.ME/REVOLYO
 https://www.dropbox.com/scl/fi/hn212l0x8k6uakaz17s4n/Revolyo.mp4?rlkey=my7bgcl55or79iod9fzksqh18&st=p5b9r93a&dl=1
 #EXTINF:-1 group-title="ДАТА ОБНОВЫ 24.09.25", T.ME/POLZAFRE
@@ -11491,3 +11491,4 @@ http://5b5f03b4.cbilant.com/iptv/PRA8W9C4E4UPKF/13082/index.m3u8
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", Sony Sci-Fi
 http://158.101.222.193:88/georgia_play.php?id=scifi
+
