@@ -17323,6 +17323,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", История
 http://95.66.188.74/Istoria/mono.m3u8
-
+#EXTINF:-1 group-title="REVOLYO" tvg-logo="https://i.ibb.co/mrBfHb29/image.png",Revolyo Mnemo
+http://46.17.250.175/revolyo/index.m3u8
 
 
