@@ -17323,10 +17323,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", История
 http://95.66.188.74/Istoria/mono.m3u8
-#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", проверка
+#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", 1-М
 http://46.17.250.175/revolyo/index.m3u8
-#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", вбвг
-https://132544.edgevideo.ru/streams/132544_990782/1325441080/index.m3u8
-#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", 7777777777777777777777
-https://132544.edgevideo.ru/streams/132544_990782/1325441080/index.m3u8
+#EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", 2-П
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 
